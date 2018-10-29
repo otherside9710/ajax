@@ -1,6 +1,6 @@
 $.ajax({
-    url: "getTotalesDashboard",
-    type: "GET",
+    url: "url",
+    type: "GET OR POST",
     data: {
         format: 'json'
     },
